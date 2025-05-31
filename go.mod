@@ -1,3 +1,3 @@
 module github.com/obumax/CI-CD_hello_golang
 
-go 1.23.3
+go 1.22
